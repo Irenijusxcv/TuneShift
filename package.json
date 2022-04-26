@@ -1,0 +1,16 @@
+{
+  "name": "tuneshift",
+  "version": "1.0.0",
+  "description": "Interactive website for sharing music with other people.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Irenijus Rastokas",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
